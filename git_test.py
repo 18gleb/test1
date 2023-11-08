@@ -5,4 +5,4 @@ def func(x):
     return x ** 2
 
 
-print(123)
+print(1234)
