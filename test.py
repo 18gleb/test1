@@ -7,3 +7,7 @@ def privet():
 
 def hi():
     print("hi")
+
+
+def GutenTag():
+    print("GutenTag")
